@@ -2,4 +2,4 @@
 - Welcome to my github profile.
 - Im learning Java, Python, CSS, HTML, PHP.
 - My youtube channel: https://www.youtube.com/channel/UC0Wi9Itbfu6WKL0TwfLRj4w
-- My donatealerts: https://www.donationalerts.com/r/ferwixwastaken
+- My donationalerts: https://www.donationalerts.com/r/ferwixwastaken
