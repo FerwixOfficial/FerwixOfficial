@@ -1,3 +1,3 @@
-- Hey buddy's.
-- Welcome to my github profile.
-- Im learning Java, Python, CSS, HTML, PHP.
+- Даров пацаны
+- Добро пожаловать на мой гитхаб профиль.
+- Я знаю языки: C++, Java, Python, PHP, CSS, HTML, Batch.
